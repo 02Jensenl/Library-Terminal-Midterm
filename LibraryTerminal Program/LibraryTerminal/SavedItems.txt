@@ -1,0 +1,17 @@
+Book|How Much of These Hills Is Gold|C Pam Zhang|0|10/30/2020 4:53:10 PM|2020|368
+Book|Jade City|Fonda Lee|3|10/16/2020 10:34:58 AM|2017|560
+Book|The Poppy War|R F Kuang|0|10/30/2020 4:53:10 PM|2018|544
+Book|Beowulf: A New Translation|Maria Dahvana Headley|1|11/16/2020 11:44:30 AM|2020|176
+Book|Pachinko|Min Jin Lee|1|11/16/2020 10:43:40 AM|2017|490
+CD|1|The Beatles|0|10/30/2020 4:53:10 PM|2000|27
+CD|Thriller|Michael Jackson|0|10/30/2020 4:53:10 PM|1982|9
+CD|21|Adele|0|10/30/2020 4:53:10 PM|2011|11
+DVD|Finding Nemo|Andrew Stanton (Pixar)|0|10/30/2020 4:53:10 PM|2003|100
+DVD|Spider-Man|Sam Raimi (Sony Pictures)|0|11/16/2020 11:46:56 AM|2002|121
+DVD|Avatar|James Cameron (20th Century Fox)|0|10/30/2020 4:53:10 PM|2009|162
+Magazine|They're Making Another Super Mario Movie|WIRED|0|10/30/2020 4:53:10 PM|2018|8
+Magazine|The World's Rarest Pair of Tweezers|Collectors|0|11/13/2020 4:59:31 PM|2015|9
+Magazine|Mount Everest: The Secrets it Holds|National Geographic|0|10/30/2020 4:53:10 PM|1999|2
+Book|Minecraft Guide|Markus Persson|0|11/16/2020 9:42:52 AM|2016|129
+Magazine|Nvidia Drivers|PC Gaming Monthly|0|11/2/2020 9:37:25 AM|2019|12
+Book|Cemetery Boys|Aiden Thomas|0|11/2/2020 11:45:12 AM|2020|352

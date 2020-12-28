@@ -1,0 +1,13 @@
+C:\Users\Lauren\source\repos\LibraryTerminal Program\LibraryTerminal\bin\Debug\netcoreapp3.1\LibraryTerminal.exe
+C:\Users\Lauren\source\repos\LibraryTerminal Program\LibraryTerminal\bin\Debug\netcoreapp3.1\LibraryTerminal.deps.json
+C:\Users\Lauren\source\repos\LibraryTerminal Program\LibraryTerminal\bin\Debug\netcoreapp3.1\LibraryTerminal.runtimeconfig.json
+C:\Users\Lauren\source\repos\LibraryTerminal Program\LibraryTerminal\bin\Debug\netcoreapp3.1\LibraryTerminal.runtimeconfig.dev.json
+C:\Users\Lauren\source\repos\LibraryTerminal Program\LibraryTerminal\bin\Debug\netcoreapp3.1\LibraryTerminal.dll
+C:\Users\Lauren\source\repos\LibraryTerminal Program\LibraryTerminal\bin\Debug\netcoreapp3.1\LibraryTerminal.pdb
+C:\Users\Lauren\source\repos\LibraryTerminal Program\LibraryTerminal\obj\Debug\netcoreapp3.1\LibraryTerminal.csprojAssemblyReference.cache
+C:\Users\Lauren\source\repos\LibraryTerminal Program\LibraryTerminal\obj\Debug\netcoreapp3.1\LibraryTerminal.AssemblyInfoInputs.cache
+C:\Users\Lauren\source\repos\LibraryTerminal Program\LibraryTerminal\obj\Debug\netcoreapp3.1\LibraryTerminal.AssemblyInfo.cs
+C:\Users\Lauren\source\repos\LibraryTerminal Program\LibraryTerminal\obj\Debug\netcoreapp3.1\LibraryTerminal.csproj.CoreCompileInputs.cache
+C:\Users\Lauren\source\repos\LibraryTerminal Program\LibraryTerminal\obj\Debug\netcoreapp3.1\LibraryTerminal.dll
+C:\Users\Lauren\source\repos\LibraryTerminal Program\LibraryTerminal\obj\Debug\netcoreapp3.1\LibraryTerminal.pdb
+C:\Users\Lauren\source\repos\LibraryTerminal Program\LibraryTerminal\obj\Debug\netcoreapp3.1\LibraryTerminal.genruntimeconfig.cache
